@@ -3,12 +3,18 @@
 
 DIRDEPS = \
 	gnu/lib/csu \
+	gnu/lib/libdialog \
 	gnu/lib/libgcc \
 	include \
 	include/xlocale \
 	lib/${CSU_DIR} \
 	lib/libc \
 	lib/libcompiler_rt \
+	lib/libdpv \
+	lib/libfigpar \
+	lib/libutil \
+	lib/msun \
+	lib/ncurses/ncursesw \
 
 
 .include <dirdeps.mk>
