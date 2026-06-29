@@ -1,5 +1,7 @@
 # Dialog Progress View
 
+Copyright (c) 2002-2018 [Devin Teske](mailto:dteske@FreeBSD.org)
+
 ## libfigpar
 
 [libfigpar](lib/libfigpar) is a configuration parser library.  It is used by [libdpv](lib/libdpv) and [dpv](usr.bin/dpv).
